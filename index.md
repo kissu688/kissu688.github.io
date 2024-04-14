@@ -21,4 +21,4 @@ Welcome to KissU APP! discovering beautiful girls around you will give you a dif
 
 5、Gift system: Send gifts to your beautiful girls, wonderful gifts make you and me closer.
 
-If you have any concerns while using YaMi, feel free to contact us with our in-app feedback system, we are pleased to help you anytime!
+If you have any concerns while using KissU, feel free to contact us with our in-app feedback system, we are pleased to help you anytime!
