@@ -1,7 +1,7 @@
 # Jekyll 配置
-title: 你的博客标题
+title: KissU's Blog
 email: kissu688@outlook.com
-description: >- # 简述你的博客
-  这里是你的博客描述。
+description: >- # KissU's Blog
+  KissU's Blog
 baseurl: "" # 如果你的博客不在根目录下，需要设置这个值
 url: "https://blog.kissu688.com" # 你的博客网址
